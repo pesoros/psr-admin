@@ -10,6 +10,12 @@
 
     <link rel="stylesheet" href="/css/app.css">
 
+    <style>
+        .sidebar-dark {
+            background: white;
+        }
+    </style>
+
     @include('layouts._head')
 
     <script src="/js/app.js"></script>
