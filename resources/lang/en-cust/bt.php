@@ -584,7 +584,7 @@ return [
     'qty'                                     => 'Qty',
     'quantity'                                => 'Quantity',
     'quantity_price_decimals'                 => 'Number of Decimals for Quantities and Amounts',
-    'quote'                                   => 'Quote',
+    'quote'                                   => 'Quotation',
     'quote_approved_email_body'               => 'Quote Approved Email Body',
     'quote_email_subject'                     => 'Quote Email Subject',
     'quote_items'                             => 'Quote Items',
